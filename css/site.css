@@ -1,0 +1,119 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    
+}
+
+p {
+    font-size: 18px;
+}
+
+body {
+    background-color: #B0C4DE;
+    
+}
+
+header{
+    position: absolute;
+    top: 0;
+    background-color:#151F1C;
+    width: 100%;
+    color: white;
+    background: black;
+    height: 80px;
+}
+
+nav {
+    margin-top: 80px;
+    
+}
+
+nav ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav li a {
+    float: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    background-color: #ededed;
+    text-decoration: none;
+    font-family: 'Teko', sans-serif, Arial;
+    font-size: 130%;
+    color: #151F1C;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    
+}
+
+nav li a:hover {
+    background-color: #d6d6d6;
+    color: #ffffff;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    margin-top: 10px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+footer h5 {
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+img.logo {
+    width: 80px ;
+    height: 80px;
+    float: left;
+}
+
+main h2 {
+    padding-top: 20px;
+    font-family: 'Teko', sans-serif, Arial;
+    font-weight: 200;
+    font-size: 40px;
+    
+    margin-bottom: 0       
+}
+
+main.h2roxo h2 {
+    color: #4B0082;
+}
+section h3 {
+    margin-bottom: 0;
+    color: #8A2BE2
+}
+
+h2#DetalhesTitulo {
+    margin-bottom: 0
+}
+
+@media only screen and (max-width: 480px) {
+    nav li a {
+        width: 100%;
+    }
+}

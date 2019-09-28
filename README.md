@@ -1,2 +1,2 @@
 # Site-LMS
-Repositório para site lms
+Site criado para o LMS

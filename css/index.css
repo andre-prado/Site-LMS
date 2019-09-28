@@ -1,0 +1,12 @@
+main img {
+    width: 35%;
+    border: 1px solid #ededed
+}
+
+p a {
+    text-decoration: none;
+}
+
+p a:hover {
+    color: #ededed
+}

@@ -1,0 +1,15 @@
+section {
+    background-color: #ededed;
+    border: 1px solid #bbbbbb;
+    width: 25%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 2px
+}
+
+main img {
+    width: 30%;
+    border: 1px solid #ededed;
+    margin-bottom: 5px
+    
+}
